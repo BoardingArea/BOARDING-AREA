@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <title><data:blog.pageTitle/></title>
+  <b:skin><![CDATA[
+    body { font-family: Arial; margin:0; padding:0; }
+    header, footer { background:#333; color:white; padding:20px; text-align:center; }
+    section { padding:20px; }
+  ]]></b:skin>
+</head>
+
+<body>
+<header>
+  <h1>Judul Website Saya</h1>
+</header>
+
+<section>
+  <b:section id="main" class="main"><b:widget id="HTML1" type="HTML"/></b:section>
+</section>
+
+<footer>
+  <p>© 2025 Website Saya</p>
+</footer>
+</body>
+</html>
